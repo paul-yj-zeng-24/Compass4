@@ -1,0 +1,2 @@
+This is a folder for storing random thoughts and ideas. Some of them may be converted to full projects. In short, this is a space for hatching big things or garbage. 
+Everything in this folder should exist for no longer than 7 days.
